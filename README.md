@@ -1,1 +1,1 @@
-# android_lab3
+# Android lab, 2nd semester, 2nd masters year
